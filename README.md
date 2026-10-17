@@ -89,3 +89,46 @@ Experiment Tracking
 Model Evaluation
       ↓
 Comparison of Approaches
+```
+## Technologies
+
+- Python
+- Pandas
+- Scikit-learn
+- Transformers
+- BERTDarija
+- AraBERT
+- TF-IDF
+- Bag of Words
+- Label Studio
+- MLflow
+- Weights & Biases
+
+## Project Context
+
+Academic NLP project developed as part of the engineering curriculum in Computer Science and Data Engineering at ENSA Khouribga.
+
+The work was carried out collaboratively and focused on benchmarking several NLP approaches for Moroccan Darija sentiment analysis.
+
+## Key Takeaways
+
+This project provided practical experience in:
+
+- NLP data preprocessing,
+- text annotation,
+- sentiment classification,
+- model comparison,
+- Transformer fine-tuning,
+- experiment tracking,
+- evaluation of NLP models on low-resource language data.
+
+## Author
+
+**Kadidiatou Dem**
+
+Computer Science and Data Engineering Student  
+ENSA Khouribga
+
+GitHub: [kadjdjatou](https://github.com/kadjdjatou)
+
+
